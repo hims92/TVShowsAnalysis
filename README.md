@@ -8,7 +8,8 @@ A POC for Getting insights from TV Shows data and event logs from a streaming se
 4) It is ok to save and load the datasets from files, in absence of any database.
 
 ## High level architecture (Simplified in actual implementation)
-![image](https://user-images.githubusercontent.com/1376157/144479763-f5794b52-e488-48e7-aa6b-a52b73f09c3f.png)
+![image](https://user-images.githubusercontent.com/1376157/144480074-a6f04bdb-e570-487e-9339-e1480b6ba846.png)
+
 
 
 ## Data pipeline details
