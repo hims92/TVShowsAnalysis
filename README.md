@@ -1,6 +1,12 @@
 # TV Shows Analysis using Knowledge graphs
 A POC for Getting insights from TV Shows data and event logs from a streaming service
 
+### Assumptions:
+1) It is ok to write data pipeline in java. In actual big data setup, this will translate to spark pipeline in java.
+2) Data pipeline is written in java, data analysis is done using python/pandas.
+3) It is ok to mock kafka event processing - I am reading the events from a file instead of kafka.
+4) It is ok to save and load the datasets from files, in absence of any database.
+
 ## High level architecture (Simplified in actual implementation)
 ![image](https://user-images.githubusercontent.com/1376157/144406692-89e57657-b4fc-421b-943d-a6aef3150b96.png)
 
