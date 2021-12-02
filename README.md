@@ -1,6 +1,9 @@
 # TV Shows Analysis using Knowledge graphs
 A POC for Getting insights from TV Shows data and event logs from a streaming service
 
+## High level architecture (Simplified in actual implementation)
+![image](https://user-images.githubusercontent.com/1376157/144406692-89e57657-b4fc-421b-943d-a6aef3150b96.png)
+
 ## Data pipeline details
 #### Input datasets -
 1) Bulk data of TV shows from rest endpoint
