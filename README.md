@@ -28,7 +28,7 @@ Pipeline code is here - https://github.com/hims92/TVShowsAnalysis/tree/master/sr
 This class orchestrates different components - https://github.com/hims92/TVShowsAnalysis/blob/master/src/main/java/com/tvshows/datapipeline/TvShowsPipeLine.java
 
 #### Output datasets
-A simple view of what graph dataset would like: (This figure does not show complete set of properties of each entity)
+A simple view of what graph dataset looks like: (This figure does not show complete set of properties of each entity)
 
 ![image](https://user-images.githubusercontent.com/1376157/144410088-c439148a-cd46-4ab0-b690-00e79d6f6369.png)
 
