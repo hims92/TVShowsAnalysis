@@ -85,7 +85,8 @@ Views in China per day:
 
 
 ### What can be improved given more time:
-1) I could have used Apache Jena / RDF constructs to model the graph nodes/edges
-2) Config for different parameters. I have currently hardcoded different file paths, which would move to a config (different for staging / pre-prod / prod etc).
-3) Proper error handling and logging is missing in data pipeline.
+1) Shows to episodes relation could have season entities in between.
+2) I could have used Apache Jena / RDF constructs to model the graph nodes/edges
+3) Config for different parameters. I have currently hardcoded different file paths, which would move to a config (different for staging / pre-prod / prod etc).
+4) Proper error handling and logging is missing in data pipeline.
 
